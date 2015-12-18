@@ -1,6 +1,4 @@
 
-
-
 public class KdTree {
 	private Node root;
 	private int count;
