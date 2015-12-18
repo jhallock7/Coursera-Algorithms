@@ -187,27 +187,7 @@ public class KdTree {
     	 return nearest;
      }
      
-     
      public void draw() {}
      
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
 }
-
-
-
-
-
-
-
-
-
 
